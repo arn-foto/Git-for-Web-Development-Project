@@ -31,10 +31,14 @@ You may add it to any HTML tag
 Just once.
 
     10. What is a class? 
-
+It is a selector that selects elements with a specific class attribute.
 
     11. What elements can I add a class to? 
+    all of them.
+    
     12. How many times can I use the same class on a page? 
+    HTML elements can have more than one class name.
+    
     13. How do I get my link to open in a new tab?
     14. What is the alt attribute used for? 
     15. How do I reference an id?
