@@ -145,3 +145,4 @@ Stretch Questions
     - <input>
     
     5. In your own words, explain the box model. What is the fix for the box model? 
+     They are boxes that wrap around all of the HTML elements. It sort of frames the content with borders, padding, margin, ect.
